@@ -1,3 +1,6 @@
+![train_batch0](https://user-images.githubusercontent.com/37693363/192225554-19671a2c-e8b3-4028-9eef-a0db1510798f.jpg)
+
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
